@@ -9,8 +9,24 @@ This web application uses html, css, bootstrap, and dynamic javascript to render
 
 A html file containing the basic skeleton was used along with custom css and a separate javaScript file. Some boostrap components are used to style buttons and other parts of the application.
 
-# Images
+# Screenshot
+<img src="./image.png">
 
+#Other details
+git clone git@github.com/wayele/codequiz
+
+
+```
+
+## Technologies Used
+
+* Html
+* CSS/Bootstrap
+* JavaScript
+
+## Author
+
+- Wub
 
 
 
